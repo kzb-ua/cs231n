@@ -1,5 +1,5 @@
 # cs231n
-Solution to assignments 1 and 2 of cs231n course from Stanford.
+Solution to assignment 1 and 2 of CS231n Convolutional Neural Networks for Visual Recognition.
 
 Follow the instructions on this webpage for setup :
 
